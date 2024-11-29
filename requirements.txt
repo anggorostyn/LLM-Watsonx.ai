@@ -1,0 +1,5 @@
+load_dotenv==0.1.0
+ibm_watson_machine_learning==1.0.345
+ibm-cloud-sdk-core==3.16.7
+streamlit==1.31.0
+python-dotenv==1.0.0
